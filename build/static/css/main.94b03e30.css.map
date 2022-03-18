@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.94b03e30.css","mappings":"AAAA,UACI,qBAAsB,CAItB,iBAAkB,CAFlB,WAAY,CADZ,YAAa,CAEb,UAEJ","sources":["style.css"],"sourcesContent":[".Divyansh {\r\n    background-color: aqua;\r\n    padding: 20px;\r\n    margin: 20px;\r\n    width: 100%;\r\n    border-radius: 4px; \r\n}\r\n"],"names":[],"sourceRoot":""}
